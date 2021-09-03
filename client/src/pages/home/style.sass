@@ -1,0 +1,52 @@
+.flexing
+  display: flex
+  justify-content: space-between
+  width: 100%
+
+#home
+  background-color: white
+
+.home-div
+  position: fixed
+  width: 90%
+  left: 50%
+  top: 50%
+  transform: translate(-50%, -50%)
+  overflow: hidden
+
+// @mixin animationTyping($delay)
+//   width: 100%
+//   opacity: 0
+//   animation: type3 1s steps(20, end), blink 0.5s step-end infinite alternate
+//   animation-delay: $delay
+//   nimation-fill-mode: forwards
+.css-typing
+  width: fit-content
+  margin: auto
+  p
+    border-right: .15em solid red
+    font-family: "Century Gothic"
+    white-space: nowrap
+    overflow: hidden
+    margin: 0 auto
+
+   
+
+@keyframes type3
+  0%
+    width: 0
+  1%
+    opacity: 1
+  99.9%
+    border-right: .15em solid red
+  100%
+    opacity: 1
+    border: none
+
+@keyframes blink
+  50%
+    border-color: transparent
+
+.letter
+  color: blue
+  font-weight: bolder
