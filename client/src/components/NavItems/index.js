@@ -18,7 +18,6 @@ function NavItems({toggleBurgerMenu}){
         </Container>
     )
 }
-
 export default NavItems
 
 
