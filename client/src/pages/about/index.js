@@ -1,6 +1,5 @@
 import Columns from "../../components/Columns";
 import Column from "../../components/Colunm";
-import Icon from "../../components/Icon";
 import Section from "../../components/Section";
 import "./style.sass"
 
