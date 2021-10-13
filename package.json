@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tuzosdaniel12/react-Portfolio.git"
+    "url": "git+https://github.com/Brandon-Soledad/react-Portfolio.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Tuzosdaniel12/react-Portfolio/issues"
+    "url": "https://github.com/Brandon-Soledad/react-Portfolio/issues"
   },
-  "homepage": "https://github.com/Tuzosdaniel12/react-Portfolio#readme",
+  "homepage": "https://github.com/Brandon-Soledad/react-Portfolio#readme",
   "dependencies": {
     "bootstrap": "^5.1.0",
     "compression": "^1.7.4",
