@@ -29,7 +29,7 @@ const About = () => {
 						<span className="has-text-centered">
 							soled25@gmail.com,{" "}
 						</span>
-						or on any of the contact options below!
+						or on any of the contact options below.
 					</p>
 
 					
