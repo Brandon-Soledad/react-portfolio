@@ -16,15 +16,15 @@ const listOfWork = [
 		alt: "Sensor Suite"
 	},
 	{
-		link: "https://github.com/Brandon-Soledad/CryptographicApp",
+		link: "https://www.youtube.com/watch?v=gHjn5pmanTQ",
 		image: "./images/LockUnlock.jpg",
-		gitrepo: "https://github.com/Brandon-Soledad/CryptographicApp",
+		gitrepo: "https://github.com/Brandon-Soledad/A-Start-PathFinder-visualizer",
 		description:
-			"Java application designed to use SHA-3 derived Hash Functions cSHAKE256 and KMACXOF256 to create cryptographic hashes of text files, decrypt/encrypt passwords, and create authentication tags",
-		alt: "Cryptographic App"
+			"A start visualizer created using Python and Pygame",
+		alt: "A-Star Visualizer"
 	},
 	{
-		link: "https://github.com/Brandon-Soledad/A.I-Pentago",
+		link: "https://www.youtube.com/watch?v=049Kn7UTOc0",
 		image: "./images/pentagoBoard.jpg",
 		gitrepo: "https://github.com/Brandon-Soledad/A.I-Pentago",
 		description:
