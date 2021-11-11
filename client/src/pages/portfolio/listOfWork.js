@@ -17,7 +17,7 @@ const listOfWork = [
 	},
 	{
 		link: "https://www.youtube.com/watch?v=gHjn5pmanTQ",
-		image: "./images/LockUnlock.jpg",
+		image: "./images/pathfinder.gif",
 		gitrepo: "https://github.com/Brandon-Soledad/A-Start-PathFinder-visualizer",
 		description:
 			"A start visualizer created using Python and Pygame",
