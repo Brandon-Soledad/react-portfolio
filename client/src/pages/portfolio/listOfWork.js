@@ -23,7 +23,23 @@ const listOfWork = [
 			"Java application designed to use SHA-3 derived Hash Functions cSHAKE256 and KMACXOF256 to create cryptographic hashes of text files, decrypt/encrypt passwords, and create authentication tags",
 		alt: "Cryptographic App"
 	},
-	
+	{
+		link: "https://github.com/Brandon-Soledad/A.I-Pentago",
+		image: "./images/pentagoBoard.jpg",
+		gitrepo: "https://github.com/Brandon-Soledad/A.I-Pentago",
+		description:
+			"Pentago board game created using Alpha-Beta-Pruning and Mini-Max algorithms to create a pentago A.I",
+		alt: "Pentago A.I"
+	},
+	{
+		link: "https://brandonsoledad.herokuapp.com/",
+		image: "./images/portfolioReact.jpg",
+		gitrepo: "https://github.com/Brandon-Soledad/react-portfolio",
+		description:
+			"Portfolio website built using React",
+		alt: "React Portfolio"
+	},
+
 ];
 
 export default listOfWork
