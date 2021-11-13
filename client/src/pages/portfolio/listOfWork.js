@@ -39,6 +39,14 @@ const listOfWork = [
 			"Portfolio website built using React",
 		alt: "React Portfolio"
 	},
+	{
+		link: "https://sneaker-aid-shop.herokuapp.com/",
+		image: "./images/shoeShop.jpg",
+		gitrepo: "https://github.com/Brandon-Soledad/shoeshop",
+		description:
+			"Full Stack E-Commerce website built using React, Node, Redux, and Stripe API",
+		alt: "Sneaker Shop E-Commerce"
+	},
 
 ];
 
