@@ -1,5 +1,5 @@
 
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Footer from "./components/Footer";
 import Header from "./components/Header"; 
 import About from "./pages/about";
@@ -11,12 +11,12 @@ function App() {
     <Router>
       <div> 
         <Header/>
-          <Switch>
+          <Routes>
             <Route exact strict  path="/" component={Home}/>
             <Route exact strict  path="/About" component={About}/>
             <Route exact strict path="/Work" component={Portfolio}/>
             <Route exact path="*" component={Home} />
-          </Switch>
+          </Routes>
         <Footer/>
       </div> 
     </Router>
